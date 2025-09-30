@@ -1,4 +1,4 @@
-# 🧠 TryHackMe Walkthrough – SilverPlatter  
+# 🧠 SilverPlatter  
 **By Allante Johnson**
 
 ---
